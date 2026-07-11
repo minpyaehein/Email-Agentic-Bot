@@ -148,9 +148,6 @@ sqlite> SELECT id, received_at, sender, subject, target_domain, importance FROM 
 ## Contributing
 Contributions, issues, and suggestions are welcome. Please open an issue describing the feature or bug and include sample emails / traces if possible (while removing any sensitive data).
 
-## License
-Specify your license here (e.g., MIT). If no license file exists in this repo, consider adding one to clarify reuse terms.
-
 ---
 
 If you'd like, I can:
